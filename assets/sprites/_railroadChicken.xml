@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:de1083351d62467eda76322eb0a31852$ -->
+<TextureAtlas imagePath="chicken.png">
+    <SubTexture name="chicken_blink_01" x="2" y="2" width="250" height="250"/>
+    <SubTexture name="chicken_blink_02" x="254" y="2" width="250" height="250"/>
+    <SubTexture name="chicken_blink_03" x="506" y="2" width="250" height="250"/>
+    <SubTexture name="chicken_left_01" x="758" y="2" width="250" height="250"/>
+    <SubTexture name="chicken_left_02" x="2" y="254" width="250" height="250"/>
+    <SubTexture name="chicken_left_03" x="254" y="254" width="250" height="250"/>
+    <SubTexture name="chicken_left_04" x="506" y="254" width="250" height="250"/>
+    <SubTexture name="chicken_left_05" x="758" y="254" width="250" height="250"/>
+    <SubTexture name="chicken_left_06" x="2" y="506" width="250" height="250"/>
+    <SubTexture name="chicken_left_07" x="254" y="506" width="250" height="250"/>
+    <SubTexture name="chicken_neutral" x="506" y="506" width="250" height="250"/>
+    <SubTexture name="chicken_right_01" x="758" y="506" width="250" height="250"/>
+    <SubTexture name="chicken_right_02" x="2" y="758" width="250" height="250"/>
+    <SubTexture name="chicken_right_03" x="254" y="758" width="250" height="250"/>
+    <SubTexture name="chicken_right_04" x="506" y="758" width="250" height="250"/>
+    <SubTexture name="chicken_right_05" x="758" y="758" width="250" height="250"/>
+    <SubTexture name="chicken_right_06" x="2" y="1010" width="250" height="250"/>
+    <SubTexture name="chicken_right_07" x="254" y="1010" width="250" height="250"/>
+    <SubTexture name="hold-button" x="506" y="1010" width="200" height="200"/>
+    <SubTexture name="train-placeholder" x="708" y="1010" width="125" height="225"/>
+</TextureAtlas>

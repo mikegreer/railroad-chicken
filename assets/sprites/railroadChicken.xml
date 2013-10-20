@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1c5e78a9a0bcc0e111a5deca8c806d39$ -->
+<TextureAtlas imagePath="railroadChicken.png">
+    <SubTexture name="bg" x="2" y="2" width="768" height="1024"/>
+    <SubTexture name="chicken_blink_01" x="1714" y="254" width="250" height="250"/>
+    <SubTexture name="chicken_blink_02" x="1330" y="878" width="250" height="250"/>
+    <SubTexture name="chicken_blink_03" x="1276" y="626" width="250" height="250"/>
+    <SubTexture name="chicken_left_01" x="1462" y="254" width="250" height="250"/>
+    <SubTexture name="chicken_left_03" x="1210" y="1142" width="250" height="250"/>
+    <SubTexture name="chicken_left_05" x="1078" y="890" width="250" height="250"/>
+    <SubTexture name="chicken_left_06" x="1024" y="638" width="250" height="250"/>
+    <SubTexture name="chicken_left_07" x="1024" y="386" width="250" height="250"/>
+    <SubTexture name="chicken_neutral" x="1766" y="2" width="250" height="250"/>
+    <SubTexture name="chicken_right_01" x="1514" y="2" width="250" height="250"/>
+    <SubTexture name="chicken_right_03" x="1262" y="2" width="250" height="250"/>
+    <SubTexture name="chicken_right_05" x="1010" y="1766" width="250" height="250"/>
+    <SubTexture name="chicken_right_06" x="1010" y="1514" width="250" height="250"/>
+    <SubTexture name="chicken_right_07" x="958" y="1262" width="250" height="250"/>
+    <SubTexture name="chicken_stress_01" x="826" y="1010" width="250" height="250"/>
+    <SubTexture name="chicken_stress_02" x="772" y="758" width="250" height="250"/>
+    <SubTexture name="chicken_stress_03" x="772" y="506" width="250" height="250"/>
+    <SubTexture name="chicken_stress_04" x="772" y="254" width="250" height="250"/>
+    <SubTexture name="chicken_stress_05" x="772" y="2" width="250" height="250"/>
+    <SubTexture name="chicken_stress_06" x="758" y="1784" width="250" height="250"/>
+    <SubTexture name="chicken_stress_07" x="758" y="1532" width="250" height="250"/>
+    <SubTexture name="chicken_stress_08" x="706" y="1280" width="250" height="250"/>
+    <SubTexture name="chicken_stress_09" x="506" y="1656" width="250" height="250"/>
+    <SubTexture name="chicken_stress_10" x="574" y="1028" width="250" height="250"/>
+    <SubTexture name="eggs_00" x="1262" y="1580" width="158" height="184"/>
+    <SubTexture name="eggs_01" x="1262" y="1394" width="158" height="184"/>
+    <SubTexture name="eggs_02" x="1582" y="1128" width="158" height="184"/>
+    <SubTexture name="eggs_03" x="1582" y="942" width="158" height="184"/>
+    <SubTexture name="eggs_04" x="1582" y="756" width="158" height="184"/>
+    <SubTexture name="eggs_05" x="1276" y="440" width="158" height="184"/>
+    <SubTexture name="eggs_06" x="1276" y="254" width="158" height="184"/>
+    <SubTexture name="feathers_01" x="1024" y="202" width="234" height="182"/>
+    <SubTexture name="feathers_02" x="1024" y="2" width="236" height="198"/>
+    <SubTexture name="feathers_03" x="1742" y="1002" width="250" height="242"/>
+    <SubTexture name="feathers_04" x="1528" y="506" width="250" height="248"/>
+    <SubTexture name="feathers_05" x="454" y="1404" width="250" height="250"/>
+    <SubTexture name="feathers_06" x="254" y="1656" width="250" height="250"/>
+    <SubTexture name="feathers_07" x="202" y="1404" width="250" height="250"/>
+    <SubTexture name="feathers_08" x="2" y="1707" width="250" height="250"/>
+    <SubTexture name="feathers_09" x="1780" y="754" width="250" height="246"/>
+    <SubTexture name="feathers_10" x="1780" y="506" width="250" height="246"/>
+    <SubTexture name="feathers_11" x="1422" y="1500" width="246" height="246"/>
+    <SubTexture name="ifeather" x="45" y="1959" width="22" height="67"/>
+    <SubTexture name="ifeather2" x="2" y="1959" width="41" height="73"/>
+    <SubTexture name="infopull" x="69" y="1959" width="36" height="56"/>
+    <SubTexture name="rails" x="202" y="1028" width="370" height="374"/>
+    <SubTexture name="survive_01" x="1714" y="1432" width="250" height="184"/>
+    <SubTexture name="survive_02" x="1462" y="1314" width="250" height="184"/>
+    <SubTexture name="survive_03" x="1742" y="1246" width="250" height="184"/>
+    <SubTexture name="train1" x="2" y="1028" width="198" height="677"/>
+</TextureAtlas>
